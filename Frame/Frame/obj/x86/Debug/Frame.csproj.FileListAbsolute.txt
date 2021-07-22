@@ -1,0 +1,6 @@
+/home/ferret/Projects/Frame/Frame/bin/Debug/Frame.exe
+/home/ferret/Projects/Frame/Frame/bin/Debug/Frame.pdb
+/home/ferret/Projects/Frame/Frame/obj/x86/Debug/Frame.csprojAssemblyReference.cache
+/home/ferret/Projects/Frame/Frame/obj/x86/Debug/Frame.csproj.CoreCompileInputs.cache
+/home/ferret/Projects/Frame/Frame/obj/x86/Debug/Frame.exe
+/home/ferret/Projects/Frame/Frame/obj/x86/Debug/Frame.pdb
